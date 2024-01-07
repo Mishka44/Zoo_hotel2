@@ -1,5 +1,0 @@
-Немо, 2, Рыба
-Nemo, 2, Fish
-Simba, 3, Lion
-Simba, 3, Lion
-Misha, 2, Monkey
